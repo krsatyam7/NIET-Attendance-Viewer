@@ -22,7 +22,7 @@
  - [Watch this YT video if are facing any issue.](https://www.youtube.com/watch?v=Ti8yXyce6ro)
 
 
-### Android  https://www.youtube.com/shorts/fOY6jKLNDo4
+### Android  
 1. Download this repo as a [ZIP file from GitHub](https://github.com/krsatyam7/NIET-Attendance-Viewer/archive/refs/heads/main.zip) or [click me](https://github.com/krsatyam7/NIET-Attendance-Viewer/releases/download/extension/attendance_viewer.zip).
 1. Download [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 1. In Kiwi Browser go to the extensions page `kiwi://extensions`
