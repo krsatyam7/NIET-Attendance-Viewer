@@ -17,7 +17,7 @@
 1. Unzip the file and you should have a folder named `NIET-Attendance-Viewer-main`.
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 1. Enable Developer Mode.
-1. Drag the `bypass-paywalls-chrome-master` folder anywhere on the page to import it (do not delete the folder afterwards).
+1. Drag the `NIET-Attendance-Viewer-main` folder anywhere on the page to import it (do not delete the folder afterwards).
  
  - [Watch this YT video if are facing any issue.](https://www.youtube.com/watch?v=Ti8yXyce6ro)
 
