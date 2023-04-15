@@ -4,7 +4,7 @@
 
 *A web browser extension that helps to view attendance which is hidden by default.*
 
-<a href="https://www.youtube.com/watch?v=Ti8yXyce6ro"><img src ="https://user-images.githubusercontent.com/110342305/232248231-9d31e9db-b0e0-482f-bd45-028d6b6f0b4d.svg" width ="1.3%"> &nbsp; Demonstration Video 
+<a href="https://www.youtube.com/watch?v=Ti8yXyce6ro"><img src ="https://user-images.githubusercontent.com/110342305/232248231-9d31e9db-b0e0-482f-bd45-028d6b6f0b4d.svg" width ="1.3%"> &nbsp; <b> Demonstration Video </b>
 
 
 
