@@ -20,6 +20,7 @@
 
 
 <h2> Desktop &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/110342305/232249645-9746061a-cf6d-4986-a5d1-73210d539921.png" width = "9%""></h2>
+ 
 1. Download this repo as a [ZIP file from GitHub](https://github.com/krsatyam7/NIET-Attendance-Viewer/archive/refs/heads/main.zip) or [click me](https://github.com/krsatyam7/NIET-Attendance-Viewer/releases/download/extension/attendance_viewer.zip).
 1. Unzip the file and you should have a folder named `NIET-Attendance-Viewer-main`.
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
