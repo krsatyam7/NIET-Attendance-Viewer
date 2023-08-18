@@ -19,9 +19,9 @@
 
 # Installation Instructions 
 
-<br>
 
-<h2> Easy Way</h2>
+
+<h2> Easy Way<img src="https://media.tenor.com/PNdWz5-Ezu8AAAAi/its-easy-craig-tucker.gif" width = "6%""></h2>
 
 1. Install the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension on Chrome or [Violentmonkey](https://violentmonkey.github.io/get-it/) on Firefox.
 
