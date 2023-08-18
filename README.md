@@ -3,8 +3,6 @@
 <h1 align="center">NIET Attendance Viewer</h1>
 
 
-![cooltext434545730831259](https://user-images.githubusercontent.com/110342305/235236760-7bdc9982-fc04-4b4e-959e-48e071985153.png)
-
 
 
 
@@ -23,6 +21,20 @@
 
 <br>
 
+<h2> Easy Way</h2>
+
+1. Install the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension on Chrome or [Violentmonkey](https://violentmonkey.github.io/get-it/) on Firefox.
+
+2. Click [here](https://greasyfork.org/en/scripts/473349-attendance-viewer) to install the userscript.
+
+### Usage
+
+1. Log into the NIET student attendance portal: https://niet.instituteoncloud.com/AttendanceReport/StudentAcademicAttendance
+
+2. The script will automatically make your attendance percentages visible. 
+
+
+<br>
 
 
 <h2> Desktop &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/110342305/232249645-9746061a-cf6d-4986-a5d1-73210d539921.png" width = "9%""></h2>
